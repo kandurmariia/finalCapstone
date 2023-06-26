@@ -15,4 +15,4 @@ Just follow the instructions on the screen an again, make sure to run the progra
 
 ## Credits
 
-Hyperion Development's python script modified and rewritten by Ilker Kandur as a Capstone Project for Software Engineering Bootcamp.
+Hyperion Development's python script modified and rewritten by Mariia Kandur as a Capstone Project for Software Engineering Bootcamp.
